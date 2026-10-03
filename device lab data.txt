@@ -1,0 +1,2 @@
+diode 1.1 v
+source voltage 2v 
